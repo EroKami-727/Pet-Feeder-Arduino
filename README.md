@@ -2,7 +2,7 @@
 This was honestly a personal project but thought people who have pets at home could use a cheap food dispenser as long as they have the patience to DIY the hardware.
 # How to use the code?
 The Code consists of the following hardware->
-Servo motor (Continuous or positional), a HX711 based load sensor, arduino board, ultrasonic sensors and a kepad for input (I used a 3*3)
+Servo motor (Continuous or positional), a HX711 based load sensor, arduino board, ultrasonic sensor, LED, some cardboard and a keypad for input (I used a 3*3)
 # Load sensor calibration
 Mine has a calibration factor of 417050.0, this changes for every sensor so change this value in the code to match your sensor. You can find plenty of HX711 based sensor codes for calibration.
 
